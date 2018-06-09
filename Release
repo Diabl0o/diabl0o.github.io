@@ -1,0 +1,9 @@
+Origin: Diab0o
+Label: Diabl0o's Repo
+Suite: stable
+Version: 1.0
+Codename: Decimation
+Architectures: iphoneos-arm
+Components: main
+Description: Reposi3 - a cydia repo template
+MD5Sum:
